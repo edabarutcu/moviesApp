@@ -1,4 +1,4 @@
-### movies-app
+### MOVİES APP
 
 CocoaPods
 
