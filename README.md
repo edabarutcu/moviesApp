@@ -27,5 +27,9 @@ $ pod install
 
 Feel free to open an issue or submit a pull request if you have any improvement or feedback.
 
+# Author
+
+Eda Barutçu edabarutcu@protonmail.com
+
 
 
