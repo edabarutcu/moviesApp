@@ -29,7 +29,7 @@ Feel free to open an issue or submit a pull request if you have any improvement 
 
 # Author
 
-Eda Barutçu edabarutcu@protonmail.com
+Eda Barutçu,edabarutcu@protonmail.com
 
 
 
