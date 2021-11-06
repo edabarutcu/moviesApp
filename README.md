@@ -16,6 +16,7 @@ $ pod install
 
 # Screenshots
 
+![IMG_0485-min](https://user-images.githubusercontent.com/91742636/140605335-b503361c-24d3-4f94-8b39-14bcbe237dca.PNG)
 
-![IMG_0485](https://user-images.githubusercontent.com/91742636/140605107-88bd9352-1fec-48dd-aa42-60d9f8166b29.PNG)
+
 
