@@ -1,5 +1,19 @@
 ## MOVİES APP
 
+1-Cocoapods kurulu değilse
+Terminali açıp 
+sudo gem install cocoapods
+Komutunu çalıştırın. Bu komut bilgisayarınızın açılış şifresini girmenizi isteyecek.
+Sonra kurulum başlayıp tamamlanacak.
+2- Klonladığınız klasör üstünde sağ tuş tıklayarak “Klasörde Yeni Terminal” seçeceğini tıklayın.
+3- Açılan terminalde sırasıyla şu komutları çalıştırın
+A) pod init
+B) open podfile
+Bu çalıştığında podfile içine readme de yazan SwiftyJson ve Real kodlarını ekleyin.
+Sonra kaydedip kapatın.
+C)pod install komutunu çalıştırın.
+4- Movies.xcworkspace adlı bir dosya oluşacak. Projeyi bu dosyayı çift tıklayıp çalıştırın.
+
 CocoaPods
 
 # Podfile
