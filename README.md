@@ -8,7 +8,9 @@ Sonra kurulum başlayıp tamamlanacak.
 
 2- Klonladığınız klasör üstünde sağ tuş tıklayarak “Klasörde Yeni Terminal” seçeceğini tıklayın.
 3- Açılan terminalde sırasıyla şu komutları çalıştırın
+
 A) pod init
+
 B) open podfile
 
 Bu çalıştığında podfile içine readme de yazan SwiftyJson ve Real kodlarını ekleyin.
