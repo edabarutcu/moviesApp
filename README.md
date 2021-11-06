@@ -15,6 +15,7 @@ Bu çalıştığında podfile içine readme de yazan SwiftyJson ve Real kodları
 Sonra kaydedip kapatın.
 
 C)pod install komutunu çalıştırın.
+
 4- Movies.xcworkspace adlı bir dosya oluşacak. Projeyi bu dosyayı çift tıklayıp çalıştırın.
 
 CocoaPods
