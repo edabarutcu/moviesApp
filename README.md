@@ -23,7 +23,9 @@ $ pod install
 ![zyro-image kopyası 2](https://user-images.githubusercontent.com/91742636/140605548-ef8418b7-3a12-41cc-915c-75f986c2d484.png)
 
 
+ # Contributing
 
+Feel free to open an issue or submit a pull request if you have any improvement or feedback.
 
 
 
