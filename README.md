@@ -7,6 +7,7 @@ Komutunu çalıştırın. Bu komut bilgisayarınızın açılış şifresini gir
 Sonra kurulum başlayıp tamamlanacak.
 
 2- Klonladığınız klasör üstünde sağ tuş tıklayarak “Klasörde Yeni Terminal” seçeceğini tıklayın.
+
 3- Açılan terminalde sırasıyla şu komutları çalıştırın
 
 A) pod init
