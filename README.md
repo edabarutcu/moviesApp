@@ -20,6 +20,9 @@ $ pod install
 
 ![zyro-image kopyası](https://user-images.githubusercontent.com/91742636/140605449-948231fa-63fb-48bb-be34-5bddce5b2f20.png)
 
+![IMG_0485](https://user-images.githubusercontent.com/91742636/140605107-88bd9352-1fec-48dd-aa42-60d9f8166b29.PNG)
+
+
 
 
 
