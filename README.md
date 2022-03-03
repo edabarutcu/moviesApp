@@ -15,11 +15,8 @@ A) pod init
 B) open podfile
 
 Bu çalıştığında podfile içine readme de yazan SwiftyJson ve Realm kodlarını ekleyin.
-Sonra kaydedip kapatın.
 
 C)pod install komutunu çalıştırın.
-
-4- Movies.xcworkspace adlı bir dosya oluşacak.
 
 CocoaPods
 
