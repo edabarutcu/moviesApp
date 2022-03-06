@@ -4,7 +4,6 @@
 Terminali açıp 
 sudo gem install cocoapods
 Komutunu çalıştırın. 
-Sonra kurulum başlayıp tamamlanacak.
 
 2- Klonladığınız klasör üstünde “Klasörde Yeni Terminal” seçeceğini tıklayın.
 
